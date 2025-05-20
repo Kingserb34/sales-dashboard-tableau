@@ -27,7 +27,7 @@ The dashboard includes the following insights:
 
 ## 🖼️ Preview
 
-![Sales Dashboard Preview](assets/sales_dashboard.png)
+![Sales Dashboard Preview](sales_dashboard.png)
 
 ## 📁 Dataset
 
