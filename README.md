@@ -45,4 +45,4 @@ The dashboard includes the following insights:
 
 ## 🤝 Contact
 
-For questions, feedback, or collaboration inquiries, feel free to connect with me via [LinkedIn]((https://www.linkedin.com/in/kovacevich34/)) or GitHub.
+For questions, feedback, or collaboration inquiries, feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/kovacevich34/) or GitHub.
