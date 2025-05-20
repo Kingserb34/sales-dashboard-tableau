@@ -23,7 +23,7 @@ The dashboard includes the following insights:
 
 ## 🌐 View the Dashboard
 
-👉 [Click here to view the live Tableau Dashboard]((https://public.tableau.com/app/profile/benjamin.kovacevich/viz/SalesProfitTrendsDashboardSuperstoreDataset/SalesProfitOverview))
+👉 [Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/benjamin.kovacevich/viz/SalesProfitTrendsDashboardSuperstoreDataset/SalesProfitOverview)
 
 ## 🖼️ Preview
 
